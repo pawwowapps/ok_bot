@@ -4,7 +4,6 @@ import telebot
 
 bot = telebot.TeleBot(token = settings.BOT_TOKEN)
 
-
 @bot.message_handler(commands=['start', 'hello'])
 def send_welcome(message):
     bot.send_message(settings.USER_TOKEN, "Хельо, " + message.from_user.first_name)
