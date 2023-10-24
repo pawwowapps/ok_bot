@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/okbot.iml" filepath="$PROJECT_DIR$/.idea/okbot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../permissiontinder/.idea/permissiontinder.iml" filepath="$PROJECT_DIR$/../permissiontinder/.idea/permissiontinder.iml" />
     </modules>
   </component>
 </project>
