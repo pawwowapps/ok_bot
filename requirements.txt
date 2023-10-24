@@ -6,3 +6,4 @@ requests==2.31.0
 telebot==0.0.5
 urllib3==2.0.6
 uvicorn[standard]
+fastapi==0.103.2
